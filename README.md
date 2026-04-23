@@ -1,4 +1,4 @@
-# pollinator-insects-jaipur
+
 # Pollinator Insects of Jaipur Region
 
 This repository provides a basic list and study of pollinator insects found in Jaipur region, Rajasthan.
@@ -31,3 +31,11 @@ More species records, seasonal observations, and field-based data will be added 
 ## Author
 Dr. Santosh Kumar Charan  
 Assistant Professor, University of Rajasthan
+## Field Data (Jaipur Region)
+
+| S.No | Species Name | Common Name | Location | Season | Remarks |
+|------|-------------|-------------|----------|--------|---------|
+| 1 | Apis dorsata | Rock Bee | Jaipur Rural | Summer | Abundant |
+| 2 | Apis cerana indica | Indian Honey Bee | Jaipur | All seasons | Common |
+| 3 | Danaus chrysippus | Plain Tiger | Jaipur Urban | Monsoon | Common |
+| 4 | Papilio demoleus | Lime Butterfly | Agricultural fields | Summer | Frequent |
